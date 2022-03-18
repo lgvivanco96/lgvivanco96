@@ -3,7 +3,7 @@ I'm interested in everything related to earth/enviromental sciences and engineer
 
 I've studied enviromental and water resources engineering, and right now I'm finishing my MSc. in Meteorology and Climatology. Specifically I'm intersted
 in physical based numerical and statistical models, and their applications in research, forecasts, risk managment, sustaintability,
-territorial planning and all kind of technological applications, especially those aimed to improve life quality and the ecological relationship between human beings and their enviroment. Despite my interest in office/computation work I also heavily enjoy field work!, like the collection of new data, maintenance or installation of new instruments.
+territorial planning and all kind of technological applications, especially those aimed to improve life quality and the ecological relationship between human beings and their enviroment. Despite my interest in office/computation work I also heavily enjoy field work!, for example things like the collection of new data, maintenance or installation of new instruments.
 
 <!---
 lgvivanco96/lgvivanco96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
