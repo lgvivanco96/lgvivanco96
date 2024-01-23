@@ -1,6 +1,5 @@
-<p style="text-align: center;"> 
-    🌎🌊🌀🏄🐟🔧💭📡
-</p>
+<p style="text-align: center;"> 🌎🌊🌀🏄🐟🔧💭📡</p>
+
 ---
 Engineer and scientist fascinated by the hydrological cycle. I'm interested in disciplines such as hydrology, hydraulics, meteorology, oceanography, and limnology.  My working toolbox include state of the art physical models, routine/object oriented programming, statistics and geographical information systems (GIS) techniques.  I like to gather any kind of measurement and observation from the field, specially if it implies walking, driving, talking and the deployment of instruments.  I'm interested in teams where collaboration and knowledge sharing is the main engine of movement and learning. On a personal level I enjoy music, literature, surfing, beers and hammocks.
 
