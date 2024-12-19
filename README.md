@@ -2,7 +2,7 @@
 
 ---
 
-#### <div align='center'>  Interested in planetary sciences, civil engineering, geography, *\ : and everything in between. </div>
+#### <div align='center'>  Interesado en ciencias planetarias, geografía, ingeniería civil, *\ : y todo lo demás. </div>
 
 <!---
 Profesional de la ingeniería y ciencias, interesado en resolver problemas asociados a la sustentabilidad de los sistemas naturales. En general me interesa el ciclo hidrológico, donde destaco disciplinas como la hidrología, hidráulica, meteorología, oceanografía, y limnología. Para analizar y estudiar problemas en estas temáticas utilizo herramientas de modelamiento matemático, estadística, programación orientada a rutinas/objetos y tecnicas propias de sistemas de información geográfica (SIG). Me interesa el trabajo de campo para levantar información e instalar instrumentos de terreno. Laboralmente me interesa el trabajo en equipos donde la colaboración e intercambio de conocimientos sea el principal motor de movimiento y aprendizaje. Personalmente disfruto de la musica, el surf, la lectura, el cine y las hamacas. 
